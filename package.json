@@ -14,13 +14,13 @@
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-bootstrap": "^0.31.5",
-    "react-datepicker": "2.9.3",
+    "react-datepicker": "2.16.0",
     "react-dom": "^16.2.0",
     "react-stockcharts": "^0.7.8",
     "shortid": "^2.2.8"
   },
   "devDependencies": {
-    "react-scripts": "^1.0.17"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "reinstall-deps": "rm -rf node_modules package-lock.json && npm i",
